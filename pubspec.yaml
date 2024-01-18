@@ -39,6 +39,7 @@ dependencies:
   transparent_image: ^2.0.1
   flutter_riverpod: ^2.4.9
   http: ^1.2.0
+  uuid: ^4.3.3
 
 dev_dependencies:
   flutter_test:
